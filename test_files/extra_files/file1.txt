@@ -1,0 +1,28 @@
+use x;
+use y::some_crate::keks;
+
+void main()  {
+    let x = 10;
+    for(int i = 0; i < 10; i++) {
+        if(xa != 10) return;
+
+        let xxx = 10sad;
+        if(xyc == 10 || x > 10) {
+            return 10;
+        }
+    }
+
+    // test kosdo dfp sad 
+    // asd as
+
+    /*
+        sdfsdf dsf
+        ssdfsdf
+        sdfsdf
+        sdfasasd
+        sadf 
+    */
+
+
+    return 0;
+}
